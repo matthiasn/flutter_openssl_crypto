@@ -24,3 +24,5 @@ flutter:
         pluginClass: FlutterOpensslCryptoPlugin
       ios:
         pluginClass: FlutterOpensslCryptoPlugin
+      macos:
+        pluginClass: FlutterOpensslCryptoPlugin
